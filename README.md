@@ -105,6 +105,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CBO | crime billing online | | |
 | CCBC | County Court Bulk Centre | http://www.justice.gov.uk/courts/northampton-bulk-centre/ccbc | Set up by HM Courts & Tribunals Service specifically to deal with straightforward debt collection work which, in the main, is undefended. In Northampton. |
 | CCCD | Claim for Crown Court Defence | https://claim-crown-court-defence.service.gov.uk/ | Legal Aid Agency project where advocates (solicitors) can submit invoices for work done for legal aid work. Project formerly known as ADPproject formerly known as CBO |
+| CCJ| County court judgment | | A formal court judgment that a party owes money to the other party. |
 | CCLF | Crown Court Litigator Fee | | LAA web app that manages LGFS (Litigators Graduated Fee Scheme) claims. |
 | CCM | Commercial Contract Management | | |
 | CCMCC | County Court Money Claims Centre | | |
